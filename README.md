@@ -51,4 +51,6 @@ It includes a more comprehensive info about city's general amneties as well as t
     * Book online appointments with varoius governments offices or private bodies
     * Community based rating to recognize and promote the noble, and protect people against frauds
     
-## Screenshots will be added once i get 'em, dont accept pull request till then
+We made this prototype in just 72 Hours for Smart India Hackathon 2019
+
+![Slide show of screenshots from our prototype](https://github.com/rambir4git/MyCityApp/blob/patch-1/screenshotshow.gif)
